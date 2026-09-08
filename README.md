@@ -1,3 +1,5 @@
+Projet réalisé dans le cadre de la formation "Data engineer" enseigné par Simplon
+
 #  Wind Power Analytics - Microsoft Fabric Pipeline
 https://github.com/gsoulat/formation-data-engineer/tree/main/99-Brief/Eolienne
 
